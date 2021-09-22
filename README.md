@@ -1,2 +1,2 @@
 # ゼロからのＣ++！
-Using 《C++ Primer ver.5》
+Using 《C++ Primer》 ver.5
